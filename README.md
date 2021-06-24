@@ -3,7 +3,7 @@
 # Requirements:
  - Build a web page with a UI component to show recently reviewed items (4), each item has an image, title, price and add to cart button. UI mock as below:
  - Add click event handler for 'Add to cart' buttons. When user clicks any one of these buttons, update the text of 'Cart is empty.' to 'Item x added in cart.' 
- - [start file](index.html) is provided, add more file as needed. Please use the spcecs and raw data as below to build the UI.
+ - [start file](index.html) is provided, add more file as needed. Please use the specs and raw data as below to build the UI.
  
  
   <img src="recentlyViewed.png" />
