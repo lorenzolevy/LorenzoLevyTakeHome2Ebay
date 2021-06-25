@@ -6,7 +6,7 @@
  - Add click event handler for 'Add to cart' buttons. When user clicks any one of these buttons, update the text of 'Cart is empty.' to 'Item x added in cart.' 
  - [start file](index.html) is provided, add more files as needed. Please use the specs and raw data as below to build the UI.
  - Please refrain from including any third-party dependencies / frameworks. We would like to see what you can do using pure HTML / CSS / Javascript.
- - We anticipate this exercise to take around 2 hours or less to complete, so please keep this in mind when designing your solution. We aren't expecting you to go above and beyond - simply your demonstrartion of the fundamentals.
+ - We anticipate this exercise to take around 2 hours or less to complete, so please keep this in mind when designing your solution. We aren't expecting you to go above and beyond - simply your demonstration of the fundamentals.
  
   <img src="recentlyViewed.png" />
 
