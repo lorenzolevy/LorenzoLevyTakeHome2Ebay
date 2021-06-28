@@ -3,7 +3,7 @@
 # Requirements:
  - Build a web page with a UI component to show recently reviewed items (4), each item has an image, title, price and add to cart button. UI mock as below:
  - Use the data specifications below to assemble and use the data in the most practical way you see fit.
- - Add click event handler for 'Add to cart' buttons. When user clicks any one of these buttons, update the text of 'Cart is empty.' to 'Item x added in cart.' 
+ - When user clicks any one of the 'Add to cart' buttons, update the text of 'Cart is empty.' to 'Item x added in cart.' and make that button unclickable. 
  - [start file](index.html) is provided, add more files as needed. Please use the specs and raw data as below to build the UI.
  - Please refrain from including any third-party dependencies / frameworks. We would like to see what you can do using pure HTML / CSS / Javascript.
  - We anticipate this exercise to take around 2 hours or less to complete, so please keep this in mind when designing your solution. We aren't expecting you to go above and beyond - simply your demonstration of the fundamentals.
