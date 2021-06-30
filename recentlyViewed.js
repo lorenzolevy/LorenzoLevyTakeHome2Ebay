@@ -65,7 +65,7 @@ const makeItems = () => {
 
     // price
     priceEl.className = 'price'
-    priceEl.innerText = price
+    priceEl.innerText = `$${price}`
 
     // button
     button.innerText = 'Add to cart'
@@ -76,7 +76,6 @@ const makeItems = () => {
     imgContainer.append(img)
     card.append(imgContainer, titleEl, priceEl, button)
     items.append(card)
-    
   })
 }
 
