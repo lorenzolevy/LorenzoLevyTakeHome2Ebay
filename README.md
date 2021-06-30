@@ -13,7 +13,7 @@
  
  ## Specs and raw data:
   ```
-    Component title: font-size 24px, bolded
+    Component title: font-size 24px, bolded --
     
     Images:
         horizontally and vertically center aligned within a 225px square box, 
@@ -25,7 +25,7 @@
         https://i.ebayimg.com/thumbs/images/g/RHIAAOSwCtJaGbNC/s-l225.png
 
     Item title:
-        font-size: 16px
+        font-size: 16px -- (14px in image)
         only display maximum two lines, if overflow use ... as shown in the item 2 and item 3 from the above UI mock
         text:
         Apple  iPhone 7 Plus - 128GB - Black - (GSM) Unlocked,

@@ -1,7 +1,49 @@
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;
     padding: 15px;
+    font-size: 16px;
 }
+
+.heading {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
 .mod {
     font-size: 1rem;
 }
+
+#items {
+  display: flex;
+  gap: 1rem;
+}
+
+.card {
+  width: 225px;
+}
+
+.card p {
+  font-size: 14px;
+}
+
+.cardImgContainer {
+  background-color: #f8f8f8;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  width: 225px;
+  height: 225px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.card:last-child div.cardImgContainer img {
+  border-radius: 8px;
+}
+
+.card p.price {
+  font-size: 20px;
+  font-weight: bold;
+}
+
